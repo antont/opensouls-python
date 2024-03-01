@@ -5,7 +5,7 @@ The main file which is also executable is
 https://github.com/antont/opensouls-python/blob/main/soulengine_chat.py
 
 Installing the npm deps to the py-js bridge may require some doing still, one way is to *temporarily* comment out line 4 in soulengine.py:
-soul_engine = javascript.require('soul-engine')
+`soul_engine = javascript.require('soul-engine')`
 
 Or maybe also just using npm to install it to system works. the bridge has also some ways to run package install commands for it, 
 
