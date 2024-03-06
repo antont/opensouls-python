@@ -1,3 +1,5 @@
+"""This is what I did first to use the open-source socialagi lib"""
+
 import javascript
 #from pydantic import BaseModel, ConfigDict
 
