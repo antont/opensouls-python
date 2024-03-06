@@ -1,7 +1,7 @@
 /*NOTE: not used, 
 
 just a note about a version with promise and exception handling,
-from tobowers on DynamicsCompressorNode
+from tobowers on discord
 */
 import { Soul, said } from "soul-engine/soul"
 
